@@ -12,8 +12,10 @@ Tools
 =====
 
 
-The [yamlmatlab][yaml] library is used for YAML parsing and is included in this
-repository.
+
+
+The annotation is stored in the [yaml][] markup language and The [yamlmatlab][]
+library is used for YAML parsing. The library is included in this repository.
 
 Documentation
 =============
@@ -37,3 +39,5 @@ TBD
 
 
 [web]: http://clopema.felk.cvut.cz/public_data.html
+[yaml]: http://yaml.org 'YAML'
+[yamlmatlab]: http://code.google.com/p/yamlmatlab/
