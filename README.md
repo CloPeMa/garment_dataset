@@ -11,11 +11,20 @@ acknowledgment.
 Tools
 =====
 
-
-
-
 The annotation is stored in the [YAML][] markup language and The [yamlmatlab][]
 library is used for YAML parsing. The library is included in this repository.
+
+In order to get you started we have provide a simple Matlab example that will
+read and show the annotation.
+
+Start Matlab in the `src` directory and run the following command:
+
+```
+$ example
+```
+
+![](doc/fig/example_1.png)
+![](doc/fig/example_2.png)
 
 Documentation
 =============
