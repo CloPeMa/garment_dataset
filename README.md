@@ -5,11 +5,15 @@ This repository contains tools and documentation for publicly available
 benchmark datasets for testing and evaluation of garment segmentation,
 recognition and folding algorithms -- the [CloPeMa Garment Dataset][web]. The
 datasets are free for research and educational purposes only and can be used in
-scientific publications at the condition of respecting the [requested citation
-acknowledgment][#citation request].
+scientific publications at the condition of respecting the requested citation
+acknowledgment.
 
 Tools
 =====
+
+
+The [yamlmatlab][yaml] library is used for YAML parsing and is included in this
+repository.
 
 Documentation
 =============
@@ -32,4 +36,4 @@ TBD
 ```
 
 
-[web]: http://clopema.felk.cvut.cz/garment_dataset.html
+[web]: http://clopema.felk.cvut.cz/public_data.html
