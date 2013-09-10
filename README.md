@@ -20,8 +20,10 @@ read and show the annotation.
 Start Matlab in the `src` directory and run the following command:
 
 ```
-$ example
+>> example
 ```
+
+It will display two images one image of pants laying flat on the and folded.
 
 ![](doc/fig/example_1.png)
 ![](doc/fig/example_2.png)
