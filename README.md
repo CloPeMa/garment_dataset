@@ -14,13 +14,21 @@ Tools
 
 
 
-The annotation is stored in the [yaml][] markup language and The [yamlmatlab][]
+The annotation is stored in the [YAML][] markup language and The [yamlmatlab][]
 library is used for YAML parsing. The library is included in this repository.
 
 Documentation
 =============
 
-This repository also contains a source code for Latex document that describes the dataset 
+This repository also contains a source code for Latex document that describes
+the dataset. In order to make the pdf version of the documentation run the
+following command in the `doc` directory.
+
+```
+$ latexmk -pdf main.tex
+```
+
+Note that it requires [latex][] and [latexmk][] to be installed.
 
 Contributing
 ============
@@ -39,5 +47,7 @@ TBD
 
 
 [web]: http://clopema.felk.cvut.cz/public_data.html
-[yaml]: http://yaml.org 'YAML'
+[YAML]: http://yaml.org
+[latex]: http://www.latex-project.org
+[latexmk]: http://www.ctan.org/pkg/latexmk/
 [yamlmatlab]: http://code.google.com/p/yamlmatlab/
