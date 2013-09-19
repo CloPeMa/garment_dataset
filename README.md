@@ -1,5 +1,5 @@
-CloPeMa Garment Dataset
-=======================
+CTU Color and Depth Image Dataset of Spread Garments
+====================================================
 
 This repository contains tools and documentation for publicly available
 benchmark datasets for testing and evaluation of garment segmentation,
@@ -28,19 +28,6 @@ It will display two images one image of pants laying flat on the and folded.
 ![](doc/fig/example_1.png)
 ![](doc/fig/example_2.png)
 
-Documentation
-=============
-
-This repository also contains a source code for Latex document that describes
-the dataset. In order to make the pdf version of the documentation run the
-following command in the `doc` directory.
-
-```
-$ latexmk -pdf main.tex
-```
-
-Note that it requires [latex][] and [latexmk][] to be installed.
-
 Contributing
 ============
 
@@ -53,7 +40,9 @@ If you are using this dataset some of the code in your project, please include
 the following citation.
 
 ```
-TBD
+Wagner, L., and Krejčová, D. CTU color and depth image dataset of spread
+garments. Research Report CTU-CMP-2013-25, Center for Machine Perception,
+K13133 FEE Czech Technical University, Prague, Czech Republic, September 2013.
 ```
 
 
