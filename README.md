@@ -25,8 +25,8 @@ Start Matlab in the `src` directory and run the following command:
 
 It will display two images one image of pants laying flat on the and folded.
 
-![](doc/fig/example_1.png)
-![](doc/fig/example_2.png)
+![](fig/example_1.png)
+![](fig/example_2.png)
 
 Contributing
 ============
